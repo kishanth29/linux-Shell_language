@@ -1,0 +1,4 @@
+This is a line with GNU.
+Another line with GNU.
+GNU is a free software.
+GNU and Linux work together.
