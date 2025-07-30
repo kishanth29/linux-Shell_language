@@ -1,10 +1,1 @@
-apple is a fruit 
-mango
-amma
-appa
-ayya
-kisan
-dana 
-banu
-menu
-is a apple
+
